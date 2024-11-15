@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import Home from './components/Home';
-import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 import Paste from './components/Paste';
 import Viewpastes from './components/Viewpastes';
 
